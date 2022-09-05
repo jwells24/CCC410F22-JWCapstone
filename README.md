@@ -5,6 +5,6 @@ Created By Jack Wells
 
 ## Topics
 
-* [[XDR vs. EDR]] is a problem facing businesses trying to find the best security offered on the market today. I want to dive into this argument and perform comparative and analytic research on these two methods of threat detection and make a decision on the better of the two. Click the article for more. 
+* [XDR vs. EDR] is a problem facing businesses trying to find the best security offered on the market today. I want to dive into this argument and perform comparative and analytic research on these two methods of threat detection and make a decision on the better of the two. Click the article for more. 
 
 * 
