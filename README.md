@@ -9,6 +9,10 @@ Created By Jack Wells
 
 * <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/IPv6.md" target="_blank">IPv6</a> is the future of computer addresses as we know them, and is a very broad topic. If were to choose IPv6, my focus would be primarily on researching the security aspects of implentation into a network and highlighting the advantagesm disadvantages, and best approaches to using IPv6 in a real business environment with a focus on the security aspects. 
 
+## Mindmap
+
+* <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/Mindmap.md" target="_blank">Mindmap</a>
+
 ## References
 
 * <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/References.md" target="_blank">Reference Page</a>
