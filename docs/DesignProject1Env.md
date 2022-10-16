@@ -4,8 +4,8 @@
 
 ## Network
 
-* I am going to use VMware Workstation to host the virtual machines for this project. Below are the hostnames of the machines that I have created, a network assignment, and a brief description of their purpose. 
+* I am going to use VMware Workstation to host the virtual machines for this project. Below are the hostnames of the machines that I have created and a brief description of their purpose. 
 
-1. linux-1 - 185.12.13.5 - This box is a CentOS 7 box and is an going to be used as an endpoint on the network.
-2. windows-1 - 185.12.13.4 - This box is a Windows 10 box and is going to be used as an endpoint on the network.
-3. wazuh-1 - 185.12.13.3 - This box is a CentOS 7 box and is going to be used as a host for Wazuh Server, Wazuh Indexer, and the Wazuh Dashboard. 
+1. linux-1 - This box is a CentOS 7 box and is an going to be used as an endpoint on the network.
+2. windows-1 - This box is a Windows 10 box and is going to be used as an endpoint on the network.
+3. wazuh-1 - This box is a CentOS 7 box and is going to be used as a host for Wazuh Server, Wazuh Indexer, and the Wazuh Dashboard. 
