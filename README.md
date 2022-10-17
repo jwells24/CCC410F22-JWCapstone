@@ -19,6 +19,8 @@ Created By Jack Wells
 
 * <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/DesignProject1Env.md" target="_blank">DP1 Environment</a>
 
+* <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/DP1Testing.md" target="_blank">DP1 Testing</a>
+
 ## References
 
 * <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/References.md" target="_blank">Reference Page</a>
