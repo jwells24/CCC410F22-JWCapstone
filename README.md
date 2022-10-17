@@ -15,11 +15,7 @@ Created By Jack Wells
 
 ## Design Project 1
 
-* <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/EDRResearch.md" target="_blank">EDR Research</a>
-
-* <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/DesignProject1Env.md" target="_blank">DP1 Environment</a>
-
-* <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/DP1Testing.md" target="_blank">DP1 Testing</a>
+* <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/DesignProject1.md" target="_blank">Design Project 1</a>
 
 ## References
 
