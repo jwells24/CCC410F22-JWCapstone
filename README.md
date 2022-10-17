@@ -13,6 +13,12 @@ Created By Jack Wells
 
 * <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/Mindmap.md" target="_blank">Mindmap</a>
 
+## Design Project 1
+
+* <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/EDRResearch.md" target="_blank">EDR Research</a>
+
+* <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/DesignProject1Env.md" target="_blank">DP1 Environment</a>
+
 ## References
 
 * <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/References.md" target="_blank">Reference Page</a>
