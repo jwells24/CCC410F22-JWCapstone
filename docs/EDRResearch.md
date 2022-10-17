@@ -13,10 +13,24 @@
 4. **SNORT**: SNORT describes itself as a packet sniffer and a full blown Intrusion Detection System. There is a free version for SNORT as it is open source but there are alo paid versions that give users access to Cisco Talos verified rulesets. SNORT would be interesting to look at in the future, but for Design Project 1 we are going to leave it alone. 
 5. **Wazuh**: Wazuh is another free, open source EDR with a lot of capabilities. It provides cloud services as well, but those are behind a paywall. Wazuh provides a lot of GUI's to use and singular endpoint protection as well. For Design Project 1, I am going to be implementing Wazuh and examining it. 
 
-### Research & Document XDR/EDR Processes
- 
- 
-### Research & Document XDR/EDR Known Issues & Successes
+### Research & Document EDR Processes
 
+* EDR stands for Extended Detection and Response and is characterized as an endpoint protection security control. EDR services typically are used in businesses as a means of preliminary protection for endpoints from threats and attacks outside of the network. In the case of Wazuh, the EDR package consists of a central node where an Indexer, Server, and Dashboard are installed. These central components are used for querying data provided by endpoints and for examining the status of endpoints and security. 
+ 
+ * With Wazuh and most EDR's, the endpoints carry an endpoint agent that is deployed to each endpoint individually. This agent monitors and sends data back to the server. This agent also can receive information from the server in the event that a response is necessary to a threat. The endpoint agent is typically small in terms of installation size and is universal, meaning that it acts the same on each endpoint and can be used on all machines of the same operating system.
+ 
+ * In Wazuh and some other EDR's, there are is usually a way for the administrator to access information in a GUI. This comes most times in the form of a dashboard. This dashboard is running on the central node in Wazuh and is accessible via http to the central node. In this dashboard, we find information gathered from the endpoints, a list of endpoints, and various other ways to process and work with the data from endpoints. We are also usually provided with a way to perform actions on an endpoint or maybe perform an active scan of an endpoint. 
+ 
+### Research & Document EDR Known Issues & Successes
 
-### Research & Document XDR/EDR Known Examples
+* EDR's are designed to provide an administrator more vision into endpoints and even the network. EDR's provide the capability to view the status and security of all endpoints on a specific network or in an organization via one central node. EDR's also allow for 24/7 monitoring of these endpoints and even the ability to resolve issues or threats when detected. 
+
+* However, EDR's do not act as a fullproof antivirus on a system. An EDR is at its best when it is fully configured to monitor endpoints and create alerts when necessary allowing for the administrator to have time to remedy the issue. Also, there are still things like with any security control that an EDR will miss. An EDR will not catch 100% of the threats thrown at a system and is not meant to be fully monitoring the network and solving all issues in that regard either. An EDR is best when used as a monitoring and first response tool and combined with other security controls to provide full organization and network protection. 
+
+### Research & Document EDR Known Examples
+
+* There are many examples of EDR products in distribution today. Common EDR solutions can be open source such as SNORT, Wazuh, and OpenEDR. There are also EDR solutions designed for larger organizations that are a paid service such as Webroot and SentinelOne. I'm going to bring in an example of how a some of these are used in a professional environment by detailing the general use of them in an internship I had over the summer.
+
+* I worked for a help desk company in Albany, New York that provides help desk and also organizational services. They are hired by an organization to provide technical support as well as network and endpoint monitoring. In this environment, which I was involved with over the course of two summers, SentinelOne & Webroot were both utilized in order to provide endpoint protection of different organizations. Either SentinelOne or Webroot agents were installed on user machines and were configured to provide monitoring statuses. I was able to witness numerous times the process in which the EDR is utilized when necessary.
+
+* For example, the SentinelOne EDR was configured to report threats and alerts via email. When a threat was revieved, we were able to observe the status of the machine and the threat via the dashboard. The data on the dashboard contained things such as time of the threat, file location of the threat, and possible remedies to the threat. We, acting as system administrators at that point, were tasked with using this data provided by the EDR to find a solution to the problem. Solutions provided by the EDR were things such as conduct a full scan and remove the threat. Sometimes a full scan and removal of the threat by the EDR was enough to solve the problem and other times it was not, but the EDR provided us with the time, tools, and data that we needed to fix the issue. 
