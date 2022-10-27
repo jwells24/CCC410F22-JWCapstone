@@ -23,7 +23,7 @@ Created By Jack Wells
 
 ## Design Project 2
 
-* <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/DesignProject2.md" target="_blank">Design Project 1</a>
+* <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/DesignProject2.md" target="_blank">Design Project 2</a>
 
 ## References
 
