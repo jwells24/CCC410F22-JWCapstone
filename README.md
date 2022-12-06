@@ -23,6 +23,10 @@ Created By Jack Wells
 
 * <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/abspropur.md" target="_blank">Abstract, Problem, Purpose</a>
 
+## Table of Dependencies
+
+* <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/tableofdependencies.md" target="_blank">Table of Dependencies</a>
+
 ## Design Project 1
 
 * <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/DesignProject1.md" target="_blank">Design Project 1</a>
