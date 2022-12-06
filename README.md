@@ -19,6 +19,10 @@ Created By Jack Wells
 
 * <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/concern2.md" target="_blank">Ethical Concerns & Implications</a>
 
+# Abstract, Problem, Purpose
+
+* <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/abspropur.md" target="_blank">Abstract, Problem, Purpose</a>
+
 ## Design Project 1
 
 * <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/DesignProject1.md" target="_blank">Design Project 1</a>
