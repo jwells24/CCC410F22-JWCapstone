@@ -6,15 +6,13 @@
 
 ### Mission Statement
 
-* The purpose of Design Project 2 is to finish some of what I was not able to accomplish in Design Project 1, that being configuring Wazuh out of the default stage. Once Wazuh is configured to a point where I feel it is not completely default, we can move on to some Pen testing of Wazuh. I want to gain some more knowledge about pen testing against EDR's specifically and then be able to design my own plan to test against my Wazuh environment. Once I have successfully designed a plan for this testing, I want to perform the plan against my environment and get some tangible results that I can eventually use in analysis. 
+* The purpose of Design Project 2 is to finish some of what I was not able to accomplish in Design Project 1, that being configuring Wazuh out of the default stage. Once Wazuh is configured to a point where I feel it is not completely default, we can move on to some Pen testing of Wazuh. I want to gain some more knowledge about pen testing against EDR's specifically and then be able to design my own plan to test against my Wazuh environment. I want to be able to roughly design my own pen test plan for Wazuh, which I can refine in the next capstone semester. 
 
 ### Objectives:
 
 1. Configure Wazuh - Configure some rules and alerts in Wazuh to simulate a business environment
 
 2. Design testing on Wazuh - Research and design a Pen test against my Wazuh environment
-
-3. Perform testing on Wazuh - Perform the pen test on the Wazuh environment
 
 ### References
 
