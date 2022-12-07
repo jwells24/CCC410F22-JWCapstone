@@ -12,7 +12,7 @@
 
 1. Configure Wazuh - Configure some rules and alerts in Wazuh to simulate a business environment - <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/configwaz.md" target="_blank">Configuring Wazuh Report</a>
 
-2. Design testing on Wazuh - Research and design a Pen test against my Wazuh environment - <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/pentestres.md" target="_blank">Pen Test research & Plans</a>
+2. Design testing on Wazuh - Research and design a Pen test against my Wazuh environment - <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/wazuhpenres.md" target="_blank">Pen Test research & Plans</a>
   
 ### References
 
