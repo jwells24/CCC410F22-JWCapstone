@@ -13,6 +13,10 @@
 1. Configure Wazuh - Configure some rules and alerts in Wazuh to simulate a business environment - <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/configwaz.md" target="_blank">Configuring Wazuh Report</a>
 
 2. Design testing on Wazuh - Research and design a Pen test against my Wazuh environment - <a href="https://github.com/jwells24/CCC410F22-JWCapstone/blob/main/docs/wazuhpenres.md" target="_blank">Pen Test research & Plans</a>
+
+### Reflection
+
+* My main goals for this design project was to configure Wazuh to a point where I think it is ready for my penetration test next semester, and I think I achieved this objective. Another one of my goals was to do some penetration test research as well as start to design my penetration test, which I think I gained substantial progress on. Some objectives that I thought went unmet was in the configuration aspect of Wazuh. I configured everything I thought that would be necessary for me to need to test against it, but there are always more things that can be configured in Wazuh. 
   
 ### References
 
